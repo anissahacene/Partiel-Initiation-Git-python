@@ -1,5 +1,3 @@
-# Partiel-Initiation-Git-python
-Documents liés au partiel
 
 # Commandes pour l'upload des fichiers:
 pwd <br/>
