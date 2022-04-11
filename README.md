@@ -9,6 +9,6 @@ git status <br/>
 git commit -m 'Project commit' <br/>
 git remote add origin https://github.com/anissahacene/Partiel-Initiation-Git-python.git <br/>
 git push -u origin master <br/>
-HELLO
-username and password 
+username and password  
+Hello git 
 
